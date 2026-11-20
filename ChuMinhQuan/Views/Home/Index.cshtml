@@ -1,0 +1,21 @@
+﻿@model IEnumerable<ChuMinhQuan.Models.Sach>
+@{
+    ViewData["Title"] = "Trang Chủ";
+}
+<div class="section-head">
+    <h3 id="tieu-de-khu-vuc">@ViewBag.TenKhuVuc</h3>
+    <a href="#danh-sach-sach">Xem tất cả &rsaquo;</a>
+</div>
+<div id="danh-sach-sach" class="grid">
+    @foreach ( var item in Model)
+    {
+        <div class="book-card">
+            <a href="#"><img src="~/images/@item.Anh" alt="@item.TenSach" /></a>
+            <h2>@item.TenSach</h2>
+            <div class="book-foot">
+                <span class="price">@item.Gia</span>
+                <button type="button" class="btn-buy">Thêm vào giỏ</button>
+            </div>
+        </div>
+    }
+</div>

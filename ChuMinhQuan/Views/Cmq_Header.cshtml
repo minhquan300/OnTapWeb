@@ -1,0 +1,33 @@
+﻿<!-- Begin Header -->
+<header class="header">
+    <div class="header-main">
+        <div class="container">
+            <a asp-controller="Home" asp-action="Index"><img src="~/images/logo.png" alt="BookHub" /></a>
+            <div class="cart-box">Giỏ hàng: 0 sản phẩm - 0đ</div>
+        </div>
+    </div>
+    <nav class="navbar">
+        <div class="container">
+            <ul class="menu">
+                @if (ViewBag.TheLoai != null)
+                {
+                    var first = true;
+                    var selectedCategoryId = ViewBag.MaTlChon as int?;
+                    foreach (var tl in ViewBag.TheLoai)
+                    {
+                        <li class="@(selectedCategoryId == tl.MaTl || (!selectedCategoryId.HasValue && first) ? "active" : "")">
+                            <a asp-controller="Home" asp-action="Index" asp-route-maTl="@tl.MaTl">@tl.TenTl</a>
+                        </li>
+                        first = false;
+                    }
+                }
+                <li><a asp-controller="Home" asp-action="Create" asp-route-maTl="@ViewBag.MaTlChon">Thêm sách</a></li>
+            </ul>
+            <form class="search-box">
+                <input type="text" placeholder="Tìm sách..." />
+                <button type="button">Tìm</button>
+            </form>
+        </div>
+    </nav>
+</header>
+<!-- End Header -->

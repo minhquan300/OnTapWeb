@@ -1,0 +1,41 @@
+@model ChuMinhQuan.Models.Sach
+@{
+    ViewData["Title"] = "Thêm sách mới";
+}
+
+<div class="section-head">
+    <h3>@ViewBag.TenKhuVuc - THÊM SÁCH MỚI</h3>
+</div>
+
+<form asp-controller="Home" asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" role="alert"></div>
+
+    <div>
+        <label asp-for="MaTl">MãTL</label>
+        <select asp-for="MaTl" asp-items="ViewBag.MaTl">
+            <option value="">-- Chọn thể loại --</option>
+        </select>
+        <span asp-validation-for="MaTl" role="alert"></span>
+    </div>
+
+    <div>
+        <label asp-for="TenSach">TenSach</label>
+        <input asp-for="TenSach" autocomplete="off" />
+        <span asp-validation-for="TenSach" role="alert"></span>
+    </div>
+
+    <div>
+        <label asp-for="Gia">Gia</label>
+        <input asp-for="Gia" type="number" min="50" max="1000" step="1" />
+        <span asp-validation-for="Gia" role="alert"></span>
+    </div>
+
+    <div>
+        <label asp-for="Anh">Anh</label>
+        <input asp-for="Anh" autocomplete="off" />
+        <span asp-validation-for="Anh" role="alert"></span>
+        <small>Nhập tên file ảnh có sẵn trong wwwroot/images, ví dụ: Img_1.jpg.</small>
+    </div>
+
+    <button type="submit" class="btn-buy">Create</button>
+</form>

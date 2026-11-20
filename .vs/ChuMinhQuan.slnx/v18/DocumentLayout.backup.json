@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL DN\\Downloads\\DeThi_Mau_2026SV\\Template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\chuminhquan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\chuminhquan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\views\\cmq_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\views\\cmq_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\views\\cmq_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\views\\cmq_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\views\\cmq_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\views\\cmq_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|c:\\users\\dell dn\\source\\repos\\chuminhquan\\chuminhquan\\views\\cmq_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16F8C57E-D62C-3000-E053-6AE6460FF393}|ChuMinhQuan\\ChuMinhQuan.csproj|solutionrelative:chuminhquan\\views\\cmq_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\Downloads\\DeThi_Mau_2026SV\\Template\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\DeThi_Mau_2026SV\\Template\\index.html",
+              "ToolTip": "C:\\Users\\DELL DN\\Downloads\\DeThi_Mau_2026SV\\Template\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\DeThi_Mau_2026SV\\Template\\index.html",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-20T02:47:33.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChuMinhQuan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T02:01:29.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChuMinhQuan.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\ChuMinhQuan.csproj",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\ChuMinhQuan.csproj",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\ChuMinhQuan.csproj",
+              "RelativeToolTip": "ChuMinhQuan\\ChuMinhQuan.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-20T01:57:26.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChuMinhQuan\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T01:54:32.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QlnhaSachContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Models\\QlnhaSachContext.cs",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Models\\QlnhaSachContext.cs",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Models\\QlnhaSachContext.cs",
+              "RelativeToolTip": "ChuMinhQuan\\Models\\QlnhaSachContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T01:39:22.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ChuMinhQuan\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T01:32:25.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Program.cs",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Program.cs",
+              "RelativeToolTip": "ChuMinhQuan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T01:39:40.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cmq_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_Footer.cshtml",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Views\\Cmq_Footer.cshtml",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_Footer.cshtml",
+              "RelativeToolTip": "ChuMinhQuan\\Views\\Cmq_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T01:30:46.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Models\\Sach.cs",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Models\\Sach.cs",
+              "RelativeToolTip": "ChuMinhQuan\\Models\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T02:20:05.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cmq_layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_layout.cshtml",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Views\\Cmq_layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_layout.cshtml",
+              "RelativeToolTip": "ChuMinhQuan\\Views\\Cmq_layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T01:29:10.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cmq_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_Header.cshtml",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Views\\Cmq_Header.cshtml",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_Header.cshtml",
+              "RelativeToolTip": "ChuMinhQuan\\Views\\Cmq_Header.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T01:29:41.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cmq_Maincontent.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_Maincontent.cshtml",
+              "RelativeDocumentMoniker": "ChuMinhQuan\\Views\\Cmq_Maincontent.cshtml",
+              "ToolTip": "C:\\Users\\DELL DN\\source\\repos\\ChuMinhQuan\\ChuMinhQuan\\Views\\Cmq_Maincontent.cshtml",
+              "RelativeToolTip": "ChuMinhQuan\\Views\\Cmq_Maincontent.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T01:30:14.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
